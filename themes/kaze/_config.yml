@@ -201,7 +201,7 @@ artitalk:
   appKey: 
 editedArticle:
   enable: true
-  repo: https://github.com//shuangxunianTest.github.io
+  repo: https://github.com/Tom-jubao/Tom-jubao.github.io
 #------------------------
 # minify config
 # css minify uses autoprefixer and clean-css
